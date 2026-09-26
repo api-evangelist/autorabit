@@ -1,0 +1,68 @@
+# AutoRABIT | Salesforce DevSecOps
+
+> AutoRABIT is a Salesforce DevSecOps platform that delivers CI/CD automation, data backup, and security posture management to help organizations build faster, safer, and more compliant Salesforce environments.
+
+## Documentation
+- [Technical Documentation](https://knowledgebase.autorabit.com/): Technical resources for installation, configuration, and integration of AutoRABIT products.
+
+## Release Notes
+- [AutoRABIT Release Notes](https://knowledgebase.autorabit.com/release-notes/release-notes): Information about new features and updates for AutoRABIT tools.
+
+## Learning Hub
+- [LearningHub](https://learninghub.autorabit.com/): Access a hub of learning resources to help you get the most out of AutoRABIT’s tools.
+
+##FAQs
+- [AutoRABIT FAQs](https://knowledgebase.autorabit.com/fundamentals/faq): Answers to general user questions and detailed product FAQs.
+
+## Main
+
+- [Controlling Risk](https://www.autorabit.com/controlling-risk/): Learn how AutoRABIT helps manage and mitigate risks in Salesforce development and deployment.
+- [Enhancing Returns](https://www.autorabit.com/enhancing-returns/): Explore strategies to improve return on investment through streamlined development and operations.
+- [Mastering Salesforce](https://www.autorabit.com/mastering-salesforce/): Master Salesforce with AutoRABIT’s tailored tools and integrations designed for developers.
+- [Products](https://www.autorabit.com/system-overview/): A comprehensive overview of AutoRABIT’s products for Salesforce DevSecOps.
+- [ARM CI/CD](https://www.autorabit.com/products/automated-release-management-ci-cd/): Automated Release Management for seamless continuous integration and deployment.
+- [Vault Data Backup & Recovery](https://www.autorabit.com/products/vault-data-backup-recovery/): Protect critical Salesforce data with secure backup and recovery solutions.
+- [CodeScan Static Code Analysis](https://www.autorabit.com/products/codescan-static-code-analysis/): Perform static code analysis to enforce compliance, improve security, and maintain Salesforce code quality.
+- [Guard Security Posture Management](https://www.autorabit.com/products/guard-security-posture-management/): Manage and monitor the security posture of your Salesforce environment for risk mitigation.
+- [Industry Solutions](https://www.autorabit.com/solutions/): Industry-specific solutions for various sectors.
+- [Banking](https://www.autorabit.com/solutions/banking/): Tailored solutions for the banking sector, ensuring security and compliance.
+- [Financial Services](https://www.autorabit.com/solutions/financial-services/): Tools and services designed for the financial industry’s unique needs.
+- [Pharmaceuticals](https://www.autorabit.com/solutions/pharmaceuticals/): Ensure regulatory compliance and secure development in the pharmaceutical industry.
+- [Healthcare](https://www.autorabit.com/solutions/healthcare/): Streamline Salesforce development for healthcare providers while maintaining security.
+- [Automotive](https://www.autorabit.com/solutions/automotive/): DevSecOps solutions specifically for the automotive sector.
+- [Energy and Utilities](https://www.autorabit.com/solutions/energy-utilities/): Secure Salesforce deployment for energy and utilities companies.
+- [Public Sector](https://www.autorabit.com/solutions/public-sector/): Industry solutions tailored to meet public sector standards and regulations.
+- [Telecommunications](https://www.autorabit.com/solutions/telecommunications/): Salesforce solutions for the telecommunications industry.
+- [Media](https://www.autorabit.com/solutions/media/): Develop and secure Salesforce applications for the media industry.
+- [Integrations](https://www.autorabit.com/integrations/): Learn about AutoRABIT’s integrations with various tools and platforms to enhance your Salesforce DevSecOps workflow.
+- [Hosting](https://www.autorabit.com/hosting/): Secure and scalable hosting solutions for Salesforce environments.
+
+## About Us
+
+- [About AutoRABIT](https://www.autorabit.com/about-us/): Get to know AutoRABIT, its mission, and how it helps organizations secure and streamline their Salesforce development.
+- [Partners](https://www.autorabit.com/partners/): Learn about AutoRABIT’s partner network and how they collaborate to deliver Salesforce solutions.
+- [News & Press](https://www.autorabit.com/news/): Stay updated with the latest news and press releases from AutoRABIT.
+- [Support](https://support.autorabit.com/): Access technical support and assistance for AutoRABIT products.
+- [Contact](https://www.autorabit.com/contact-us/): Get in touch with AutoRABIT for inquiries, feedback, or support.
+
+## Resources
+
+- [Read the Seer](https://www.autorabit.com/blog/): Dive into the latest industry insights, trends, and best practices on AutoRABIT’s blog.
+- [Case Studies](https://www.autorabit.com/case-studies/): Discover how AutoRABIT has helped organizations improve their Salesforce DevSecOps practices.
+- [Events & Webinars](https://www.autorabit.com/events-webinars/): Join upcoming events and webinars to learn more about AutoRABIT’s solutions.
+- [Videos](https://www.autorabit.com/videos/): Watch videos about AutoRABIT’s products and customer success stories.
+- [Datasheets](https://www.autorabit.com/datasheets/): Access product datasheets and detailed technical specifications.
+- [Whitepapers & Ebooks](https://www.autorabit.com/ebooks/): Read in-depth whitepapers and ebooks about Salesforce DevSecOps and security.
+- [Infographics](https://www.autorabit.com/infographics/): View visual guides and infographics related to Salesforce and DevSecOps best practices.
+- [Podcast](https://www.autorabit.com/podcast/): Tune in to AutoRABIT’s podcast for discussions on Salesforce security and DevSecOps.
+
+## Experience
+
+- [Schedule a Demo](https://www.autorabit.com/request-a-demo/): Book a personalized demo of AutoRABIT’s solutions for your team.
+- [Get a Risk Analysis](https://www.autorabit.com/get-a-risk-analysis/): Receive a comprehensive risk analysis of your Salesforce environment to identify vulnerabilities.
+- [Get a Code Assessment](https://www.autorabit.com/get-a-code-assessment/): Evaluate the quality and security of your Salesforce code with AutoRABIT’s code assessment tools.
+
+## Canonical
+
+- Website: https://www.autorabit.com
+- Sitemap: https://www.autorabit.com/sitemap_index.xml

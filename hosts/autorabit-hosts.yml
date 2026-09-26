@@ -1,0 +1,102 @@
+generated: '2026-09-26'
+method: derived
+source: the pre-flight dossier, apis.yml pointers, spec servers, well-known, vendors -- nothing fetched here
+generator: derive-hosts.py
+summary:
+  hosts: 7
+  own: 7
+  other_domain: 0
+  platform: 0
+  roles:
+  - api
+  - other
+  - partner
+  - support
+  - website
+hosts:
+- host: api.autorabit.com
+  found_by:
+  - contract-discovery
+  types: []
+  serves: []
+  registrable_domain: autorabit.com
+  role: api
+  relation: own
+- host: go.autorabit.com
+  found_by:
+  - probed
+  - site-links
+  - contract-discovery
+  - well-known
+  types: []
+  serves: []
+  registrable_domain: autorabit.com
+  role: other
+  relation: own
+- host: knowledgebase.autorabit.com
+  found_by:
+  - probed
+  - site-links
+  - contract-discovery
+  - well-known
+  types: []
+  serves: []
+  registrable_domain: autorabit.com
+  role: other
+  relation: own
+- host: learninghub.autorabit.com
+  found_by:
+  - probed
+  - site-links
+  - contract-discovery
+  - well-known
+  types: []
+  serves: []
+  registrable_domain: autorabit.com
+  role: other
+  relation: own
+- host: partner.autorabit.com
+  found_by:
+  - probed
+  - site-links
+  - namespace-probe
+  - well-known
+  types: []
+  serves: []
+  title: AutoRABIT Login
+  status: 200
+  registrable_domain: autorabit.com
+  role: partner
+  relation: own
+- host: support.autorabit.com
+  found_by:
+  - pointer
+  - probed
+  - site-links
+  - well-known
+  types:
+  - Support
+  serves: []
+  registrable_domain: autorabit.com
+  role: support
+  relation: own
+- host: www.autorabit.com
+  found_by:
+  - pointer
+  - probed
+  - contract-discovery
+  - well-known
+  - vendor-detect
+  types:
+  - Compliance
+  - PrivacyPolicy
+  - Newsroom
+  - Blog
+  - Website
+  serves:
+  - cdn
+  - hosting
+  vendor: cloudflare
+  registrable_domain: autorabit.com
+  role: website
+  relation: own

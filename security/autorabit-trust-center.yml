@@ -1,0 +1,12 @@
+generated: '2026-09-26'
+method: searched
+probe: true
+source: https://www.autorabit.com/trust-center/
+url: https://www.autorabit.com/trust-center/
+certifications:
+- FedRAMP
+evidence:
+- source: https://www.autorabit.com/trust-center/
+  keywords:
+  - fedramp
+  - trust center

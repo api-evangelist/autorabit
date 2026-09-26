@@ -1,23 +1,76 @@
 aid: autorabit
+
 name: AutoRABIT
-description: 'AutoRABIT is a company surfaced via the API Evangelist harvest backlog (source: secondary-market)
-  and added to the network as a stub for full-pipeline profiling.'
+
+description: "AutoRABIT provides a Salesforce DevSecOps platform that secures and accelerates development, offering CI/CD, code quality, backup & recovery, and security posture management. It helps regulated enterprises ensure compliance, reduce risk, and deploy confidently with built‑in security features across its suite of products."
+
 url: https://raw.githubusercontent.com/api-evangelist/autorabit/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:secondary-market
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-09-26 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-09-26'
+
 modified: '2026-09-26'
+
 tags:
-- Company
-apis: []
+- Salesforce
+- DevSecOps
+- CI/CD
+- Compliance
+- Automation
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+
 common:
+- type: Compliance
+  url: https://www.autorabit.com/trust-center/
+- type: LLMsTxt
+  url: llms/autorabit-llms.txt
+- type: WellKnown
+  url: well-known/autorabit-well-known.yml
+- type: Hosts
+  url: hosts/autorabit-hosts.yml
+- type: Vendors
+  url: vendors/autorabit-vendors.yml
+- type: Support
+  url: https://support.autorabit.com/
+- type: PrivacyPolicy
+  url: https://www.autorabit.com/privacy-policy/
+- type: Newsroom
+  url: https://www.autorabit.com/news/
+- type: Blog
+  url: https://www.autorabit.com/blog/
+- type: TrustCenter
+  url: security/autorabit-trust-center.yml
+- type: DomainSecurity
+  url: security/autorabit-domain-security.yml
 - type: Website
-  url: https://www.nasdaqprivatemarket.com/
+  url: https://www.autorabit.com/
+
+apis: []
+
+x-coverage:
+  state: unreadable
+  reason: js-rendered-docs
+  detail: Documentation pages return HTML shells and no machine‑readable spec was found.
+  evidence:
+    - url: https://go.autorabit.com/openapi.json
+      status: 200
+  checked: 2026-09-26
+x-enrichment:
+  date: '2026-09-26'
+  status: enriched
+  artifacts_added: 13
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local,regulatory=local

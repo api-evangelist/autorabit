@@ -1,0 +1,10 @@
+generated: '2026-09-26'
+method: searched
+source: https://www.autorabit.com/privacy-policy/
+signals:
+  - signal: data_subject_request
+    evidence:
+      - source: https://www.autorabit.com/privacy-policy/
+        http_status: 200
+        fetched: true
+        quote: "AutoRABIT Holding, Inc. ... respect your privacy. This Privacy Policy ... describes rights you may have under applicable laws."
