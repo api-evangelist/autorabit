@@ -16,8 +16,8 @@ edges:
   listing_count: 3
   apps:
   - Vault
-  - AutoRABIT ARM (Automated Release Management)
   - CodeScan by AutoRABIT
+  - AutoRABIT ARM (Automated Release Management)
   seller_name: AutoRABIT
   detected_by: sweep-cloud-marketplaces.py
   detected: '2026-10-13'
